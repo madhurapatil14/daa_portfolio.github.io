@@ -1,0 +1,14 @@
+---- Military Unit Details ----
+Serial No. | Unit Name                | Personnel | Vehicles | Weapons | Equipment | Total Weight (kg) | Total Cost (USD) | Weapon Types and Counts
+--------------------------------------------------------------------------------------------
+1         | The Rajput Regiment | 120       | 5      | 200      | 50       | 21900           | $360750.00        | 
+2         | The Sikh Regiment | 200       | 8      | 300      | 100       | 35500.00           | $584100.00        | 
+3         | The Gorkha Rifles | 150       | 7      | 250      | 70       | 28950.00           | $479400.00        | 
+4         | The Dogra Regiment | 180       | 6      | 280      | 60       | 29400.00           | $479700.00        | 
+5         | The Jat Regiment | 140       | 4      | 220      | 80       | 21900.00           | $354300.00        | 
+6         | 61 Cavalry Regiment | 170       | 10      | 260      | 90       | 36700.00           | $615000.00        | 
+7         | 51 Artillery Brigade | 130       | 5      | 210      | 40       | 22650.00           | $372000.00        | 
+8         | Parachute Regiment (Special Forces) | 190       | 9      | 300      | 110       | 36900.00           | $611550.00        | 
+9         | Rashtriya Rifles | 160       | 8      | 270      | 95       | 32200.00           | $534600.00        | 
+10         | 14 Corps (Fire and Fury Corps) | 110       | 4      | 150      | 30       | 18250.00           | $299550.00        | 
+--------------------------------------------------------------------------------------------
