@@ -1,0 +1,172 @@
+--------------------------- Army Units Details ---------------------------
+
+Unit Name: The Rajput Regiment
+Personnel: 120
+Vehicles: 5
+Weapons:
+  - Rifles (Qty: 200)
+  - Machine Guns (Qty: 50)
+Vehicles Information:
+  - Truck (Qty: 3)
+  - Armored Vehicle (Qty: 2)
+Equipment: 50
+Total Weight: 21900 kg
+Transportation Costs (USD):
+  Fuel Cost per km per kg: $0.02
+  Toll Cost per vehicle per km: $5.00
+  Maintenance Cost per vehicle per km: $0.50
+--------------------------------------------------------------------
+
+Unit Name: The Sikh Regiment
+Personnel: 200
+Vehicles: 8
+Weapons:
+  - Rifles (Qty: 250)
+  - Grenades (Qty: 50)
+  - Machine Guns (Qty: 100)
+Vehicles Information:
+  - Truck (Qty: 5)
+  - Armored Vehicle (Qty: 3)
+Equipment: 100
+Total Weight: 35500.00 kg
+Transportation Costs (USD):
+  Fuel Cost per km per kg: $0.02
+  Toll Cost per vehicle per km: $5.00
+  Maintenance Cost per vehicle per km: $0.50
+--------------------------------------------------------------------
+
+Unit Name: The Gorkha Rifles
+Personnel: 150
+Vehicles: 7
+Weapons:
+  - Rifles (Qty: 250)
+  - Pistols (Qty: 100)
+Vehicles Information:
+  - Truck (Qty: 4)
+  - Armored Vehicle (Qty: 3)
+Equipment: 70
+Total Weight: 28950.00 kg
+Transportation Costs (USD):
+  Fuel Cost per km per kg: $0.02
+  Toll Cost per vehicle per km: $5.00
+  Maintenance Cost per vehicle per km: $0.50
+--------------------------------------------------------------------
+
+Unit Name: The Dogra Regiment
+Personnel: 180
+Vehicles: 6
+Weapons:
+  - Rifles (Qty: 200)
+  - Grenades (Qty: 80)
+Vehicles Information:
+  - Truck (Qty: 4)
+  - Tank (Qty: 2)
+Equipment: 60
+Total Weight: 29400.00 kg
+Transportation Costs (USD):
+  Fuel Cost per km per kg: $0.02
+  Toll Cost per vehicle per km: $5.00
+  Maintenance Cost per vehicle per km: $0.50
+--------------------------------------------------------------------
+
+Unit Name: The Jat Regiment
+Personnel: 140
+Vehicles: 4
+Weapons:
+  - Rifles (Qty: 180)
+  - Machine Guns (Qty: 40)
+Vehicles Information:
+  - Truck (Qty: 2)
+  - Tank (Qty: 2)
+Equipment: 80
+Total Weight: 21900.00 kg
+Transportation Costs (USD):
+  Fuel Cost per km per kg: $0.02
+  Toll Cost per vehicle per km: $5.00
+  Maintenance Cost per vehicle per km: $0.50
+--------------------------------------------------------------------
+
+Unit Name: 61 Cavalry Regiment
+Personnel: 170
+Vehicles: 10
+Weapons:
+  - Rifles (Qty: 220)
+  - Machine Guns (Qty: 40)
+Vehicles Information:
+  - Truck (Qty: 6)
+  - Armored Vehicle (Qty: 4)
+Equipment: 90
+Total Weight: 36700.00 kg
+Transportation Costs (USD):
+  Fuel Cost per km per kg: $0.02
+  Toll Cost per vehicle per km: $5.00
+  Maintenance Cost per vehicle per km: $0.50
+--------------------------------------------------------------------
+
+Unit Name: 51 Artillery Brigade
+Personnel: 130
+Vehicles: 5
+Weapons:
+  - Cannons (Qty: 150)
+  - Rifles (Qty: 100)
+Vehicles Information:
+  - Truck (Qty: 3)
+  - Artillery Vehicle (Qty: 2)
+Equipment: 40
+Total Weight: 22650.00 kg
+Transportation Costs (USD):
+  Fuel Cost per km per kg: $0.02
+  Toll Cost per vehicle per km: $5.00
+  Maintenance Cost per vehicle per km: $0.50
+--------------------------------------------------------------------
+
+Unit Name: Parachute Regiment (Special Forces)
+Personnel: 190
+Vehicles: 9
+Weapons:
+  - Rifles (Qty: 300)
+  - Pistols (Qty: 120)
+Vehicles Information:
+  - Truck (Qty: 4)
+  - Armored Vehicle (Qty: 4)
+Equipment: 110
+Total Weight: 36900.00 kg
+Transportation Costs (USD):
+  Fuel Cost per km per kg: $0.02
+  Toll Cost per vehicle per km: $5.00
+  Maintenance Cost per vehicle per km: $0.50
+--------------------------------------------------------------------
+
+Unit Name: Rashtriya Rifles
+Personnel: 160
+Vehicles: 8
+Weapons:
+  - Rifles (Qty: 270)
+  - Grenades (Qty: 50)
+Vehicles Information:
+  - Truck (Qty: 5)
+  - Armored Vehicle (Qty: 3)
+Equipment: 95
+Total Weight: 32200.00 kg
+Transportation Costs (USD):
+  Fuel Cost per km per kg: $0.02
+  Toll Cost per vehicle per km: $5.00
+  Maintenance Cost per vehicle per km: $0.50
+--------------------------------------------------------------------
+
+Unit Name: 14 Corps (Fire and Fury Corps)
+Personnel: 110
+Vehicles: 4
+Weapons:
+  - Rifles (Qty: 150)
+  - Machine Guns (Qty: 30)
+Vehicles Information:
+  - Truck (Qty: 2)
+  - Tank (Qty: 2)
+Equipment: 30
+Total Weight: 18250.00 kg
+Transportation Costs (USD):
+  Fuel Cost per km per kg: $0.02
+  Toll Cost per vehicle per km: $5.00
+  Maintenance Cost per vehicle per km: $0.50
+--------------------------------------------------------------------
