@@ -1,0 +1,72 @@
+Army Unit Details:
+
+1. Unit Name: The Rajput Regiment
+   Personnel: 120
+   Vehicles: 5
+   Weapons: 200
+   Equipment: 50
+   Total Weight: 21900 kg
+
+2. Unit Name: The Sikh Regiment
+   Personnel: 200
+   Vehicles: 8
+   Weapons: 300
+   Equipment: 100
+   Total Weight: 35500 kg
+
+3. Unit Name: The Gorkha Rifles
+   Personnel: 150
+   Vehicles: 7
+   Weapons: 250
+   Equipment: 70
+   Total Weight: 28950 kg
+
+4. Unit Name: The Dogra Regiment
+   Personnel: 180
+   Vehicles: 6
+   Weapons: 280
+   Equipment: 60
+   Total Weight: 29400 kg
+
+5. Unit Name: The Jat Regiment
+   Personnel: 140
+   Vehicles: 4
+   Weapons: 220
+   Equipment: 80
+   Total Weight: 21900 kg
+
+6. Unit Name: 61 Cavalry Regiment
+   Personnel: 170
+   Vehicles: 10
+   Weapons: 260
+   Equipment: 90
+   Total Weight: 36700 kg
+
+7. Unit Name: 51 Artillery Brigade
+   Personnel: 130
+   Vehicles: 5
+   Weapons: 210
+   Equipment: 40
+   Total Weight: 22650 kg
+
+8. Unit Name: Parachute Regiment (Special Forces)
+   Personnel: 190
+   Vehicles: 9
+   Weapons: 300
+   Equipment: 110
+   Total Weight: 36900 kg
+
+9. Unit Name: Rashtriya Rifles
+   Personnel: 160
+   Vehicles: 8
+   Weapons: 270
+   Equipment: 95
+   Total Weight: 32200 kg
+
+10. Unit Name: 14 Corps (Fire and Fury Corps)
+   Personnel: 110
+   Vehicles: 4
+   Weapons: 150
+   Equipment: 30
+   Total Weight: 18250 kg
+
